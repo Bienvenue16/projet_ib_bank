@@ -1,5 +1,5 @@
 // URL de ton backend (À changer plus tard pour l'URL Render)
-const API_URL = "http://127.0.0.1:5000/chat";
+const API_URL = "https://projet-ib-bank.onrender.com/chat";
 
 async function sendMessage() {
     const input = document.getElementById("user-input");
